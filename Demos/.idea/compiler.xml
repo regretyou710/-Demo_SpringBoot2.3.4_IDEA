@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -11,6 +12,7 @@
         <module name="demo09" />
         <module name="demo08" />
         <module name="demo07" />
+        <module name="demo17" />
         <module name="demo11" />
         <module name="Demo05_HelloWorld" />
         <module name="demo10" />
@@ -26,6 +28,7 @@
       <module name="demo11" target="1.8" />
       <module name="demo12-1" target="1.8" />
       <module name="demo12-2" target="1.8" />
+      <module name="demo17" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -38,6 +41,7 @@
       <module name="demo11" options="-parameters" />
       <module name="demo12-1" options="-parameters" />
       <module name="demo12-2" options="-parameters" />
+      <module name="demo17" options="-parameters" />
     </option>
   </component>
 </project>

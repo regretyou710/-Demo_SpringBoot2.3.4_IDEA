@@ -9,5 +9,6 @@
     <file url="file://$PROJECT_DIR$/Demo11_@ImportResource導入Spring配置文件/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Demo12_@ConfigurationProperties配置綁定1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Demo12_@ConfigurationProperties配置綁定2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Demo17_Lombok簡化開發/src/main/java" charset="UTF-8" />
   </component>
 </project>

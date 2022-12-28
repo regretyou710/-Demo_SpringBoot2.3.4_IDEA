@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/Demo11_@ImportResource導入Spring配置文件/demo11.iml" filepath="$PROJECT_DIR$/Demo11_@ImportResource導入Spring配置文件/demo11.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo12_@ConfigurationProperties配置綁定1/demo12-1.iml" filepath="$PROJECT_DIR$/Demo12_@ConfigurationProperties配置綁定1/demo12-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo12_@ConfigurationProperties配置綁定2/demo12-2.iml" filepath="$PROJECT_DIR$/Demo12_@ConfigurationProperties配置綁定2/demo12-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo17_Lombok簡化開發/demo17.iml" filepath="$PROJECT_DIR$/Demo17_Lombok簡化開發/demo17.iml" />
     </modules>
   </component>
 </project>
