@@ -10,5 +10,7 @@
     <file url="file://$PROJECT_DIR$/Demo12_@ConfigurationProperties配置綁定1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Demo12_@ConfigurationProperties配置綁定2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Demo17_Lombok簡化開發/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Demo20_yml的用法/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Demo21_自定義類綁定的配置提示/src/main/java" charset="UTF-8" />
   </component>
 </project>

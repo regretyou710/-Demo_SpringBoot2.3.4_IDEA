@@ -1,0 +1,46 @@
+person:
+  #  單引號會將 \n作為字符串輸出   雙引號會將\n 作為換行輸出
+  #  雙引號不會轉義，單引號會轉義
+  boss: true
+  birth: 2019/12/9
+  age: 18
+
+  #  interests: [籃球,足球]
+  interests:
+    - 籃球
+    - 足球
+    - 18
+  animal: [阿貓,阿狗]
+  #  score:
+  #    english: 80
+  #    math: 90
+  score: {english:80,math:90}
+  salarys:
+    - 9999.98
+    - 9999.99
+  pet:
+    name: 阿狗
+    weight: 99.99
+  allPets:
+    sick:
+      - {name: 阿狗,weight: 99.99}
+      - name: 阿貓
+        weight: 88.88
+      - name: 阿蟲
+        weight: 77.77
+    health:
+      - {name: 阿花,weight: 199.99}
+      - {name: 阿明,weight: 199.99}
+  user-name: zhangsan
+
+
+
+#其他配置
+#spring:
+#  banner:
+#    image:
+#      bitdepth: 4
+#  cache:
+#    type: redis
+#    redis:
+#      time-to-live: 11000

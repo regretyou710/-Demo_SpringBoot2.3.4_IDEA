@@ -12,6 +12,9 @@
         <option value="$PROJECT_DIR$/Demo12_@ConfigurationProperties配置綁定1/pom.xml" />
         <option value="$PROJECT_DIR$/Demo12_@ConfigurationProperties配置綁定2/pom.xml" />
         <option value="$PROJECT_DIR$/Demo17_Lombok簡化開發/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo20/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo20_yml的用法/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo21_自定義類綁定的配置提示/pom.xml" />
       </list>
     </option>
   </component>

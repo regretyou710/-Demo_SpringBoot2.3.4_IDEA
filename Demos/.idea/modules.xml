@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/Demo12_@ConfigurationProperties配置綁定1/demo12-1.iml" filepath="$PROJECT_DIR$/Demo12_@ConfigurationProperties配置綁定1/demo12-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo12_@ConfigurationProperties配置綁定2/demo12-2.iml" filepath="$PROJECT_DIR$/Demo12_@ConfigurationProperties配置綁定2/demo12-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo17_Lombok簡化開發/demo17.iml" filepath="$PROJECT_DIR$/Demo17_Lombok簡化開發/demo17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo20_yml的用法/demo20.iml" filepath="$PROJECT_DIR$/Demo20_yml的用法/demo20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo21_自定義類綁定的配置提示/demo21.iml" filepath="$PROJECT_DIR$/Demo21_自定義類綁定的配置提示/demo21.iml" />
     </modules>
   </component>
 </project>
