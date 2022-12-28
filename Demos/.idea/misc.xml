@@ -6,6 +6,8 @@
         <option value="$PROJECT_DIR$/Demo05_HelloWorld/pom.xml" />
         <option value="$PROJECT_DIR$/Demo07_自動配置特性/pom.xml" />
         <option value="$PROJECT_DIR$/Demo08_@Configuration詳解/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo09_@Import導入組件/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo10_@Conditional條件裝配/pom.xml" />
       </list>
     </option>
   </component>
