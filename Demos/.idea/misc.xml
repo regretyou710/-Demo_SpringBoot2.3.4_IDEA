@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/Demo08_@Configuration詳解/pom.xml" />
         <option value="$PROJECT_DIR$/Demo09_@Import導入組件/pom.xml" />
         <option value="$PROJECT_DIR$/Demo10_@Conditional條件裝配/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo11_@ImportResource導入Spring配置文件/pom.xml" />
       </list>
     </option>
   </component>

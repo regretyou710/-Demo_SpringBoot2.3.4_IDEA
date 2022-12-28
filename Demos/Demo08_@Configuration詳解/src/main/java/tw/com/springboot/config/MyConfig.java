@@ -12,9 +12,6 @@ import tw.com.springboot.bean.User;
  * Full(proxyBeanMethods = true)、【保證每個@Bean方法被調用多少次返回的組件都是單實例的】
  * Lite(proxyBeanMethods = false)【每個@Bean方法被調用多少次返回的組件都是新創建的】
  * 組件依賴必須使用Full模式默認。其他默認是否Lite模式
- * <p>
- * 4、@Import({User.class, DBHelper.class}):給容器中自動創建出這兩個類型的組件、默認組件的名字就是全類名
- * 5、@ImportResource("classpath:beans.xml"):導入Spring的配置文件
  */
 @Configuration(proxyBeanMethods = false)//告诉SpringBoot这是一个配置类 == 配置文件
 public class MyConfig {
