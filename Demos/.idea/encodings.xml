@@ -7,5 +7,7 @@
     <file url="file://$PROJECT_DIR$/Demo09_@Import導入組件/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Demo10_@Conditional條件裝配/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Demo11_@ImportResource導入Spring配置文件/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Demo12_@ConfigurationProperties配置綁定1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Demo12_@ConfigurationProperties配置綁定2/src/main/java" charset="UTF-8" />
   </component>
 </project>
