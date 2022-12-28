@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Demo05_HelloWorld/Demo05_HelloWorld.iml" filepath="$PROJECT_DIR$/Demo05_HelloWorld/Demo05_HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo07_自動配置特性/demo07.iml" filepath="$PROJECT_DIR$/Demo07_自動配置特性/demo07.iml" />
     </modules>
   </component>
 </project>
