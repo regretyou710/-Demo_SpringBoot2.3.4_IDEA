@@ -1,0 +1,8 @@
+spring:
+ mvc:
+  #配置靜態資源前綴
+  static-path-pattern: /res/**
+  #變更靜態資源默認路徑
+ resources:
+  static-locations: [classpath:/haha/]
+

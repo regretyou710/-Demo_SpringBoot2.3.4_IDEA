@@ -12,5 +12,7 @@
     <file url="file://$PROJECT_DIR$/Demo17_Lombok簡化開發/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Demo20_yml的用法/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Demo21_自定義類綁定的配置提示/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Demo23_靜態資源規則與訂製化/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Demo24_welcome與favicon功能/src/main/java" charset="UTF-8" />
   </component>
 </project>

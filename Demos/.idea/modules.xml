@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Demo05_HelloWorld/Demo05_HelloWorld.iml" filepath="$PROJECT_DIR$/Demo05_HelloWorld/Demo05_HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo23_靜態資源規則與訂製化/Demo23_靜態資源規則與訂製化.iml" filepath="$PROJECT_DIR$/Demo23_靜態資源規則與訂製化/Demo23_靜態資源規則與訂製化.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo07_自動配置特性/demo07.iml" filepath="$PROJECT_DIR$/Demo07_自動配置特性/demo07.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo08_@Configuration詳解/demo08.iml" filepath="$PROJECT_DIR$/Demo08_@Configuration詳解/demo08.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo09_@Import導入組件/demo09.iml" filepath="$PROJECT_DIR$/Demo09_@Import導入組件/demo09.iml" />
@@ -13,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/Demo17_Lombok簡化開發/demo17.iml" filepath="$PROJECT_DIR$/Demo17_Lombok簡化開發/demo17.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo20_yml的用法/demo20.iml" filepath="$PROJECT_DIR$/Demo20_yml的用法/demo20.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo21_自定義類綁定的配置提示/demo21.iml" filepath="$PROJECT_DIR$/Demo21_自定義類綁定的配置提示/demo21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo24_welcome與favicon功能/demo24.iml" filepath="$PROJECT_DIR$/Demo24_welcome與favicon功能/demo24.iml" />
     </modules>
   </component>
 </project>
