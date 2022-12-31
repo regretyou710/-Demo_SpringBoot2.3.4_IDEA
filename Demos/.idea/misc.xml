@@ -17,6 +17,8 @@
         <option value="$PROJECT_DIR$/Demo21_自定義類綁定的配置提示/pom.xml" />
         <option value="$PROJECT_DIR$/Demo23_靜態資源規則與訂製化/pom.xml" />
         <option value="$PROJECT_DIR$/Demo24_welcome與favicon功能/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo44_後台管理系統基本功能/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo45_抽取公共頁面/pom.xml" />
       </list>
     </option>
   </component>

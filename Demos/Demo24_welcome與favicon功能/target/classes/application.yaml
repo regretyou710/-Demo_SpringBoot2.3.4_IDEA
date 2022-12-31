@@ -8,3 +8,4 @@ spring:
  resources:
   static-locations: [classpath:/haha/]
 
+#welcome在變更靜態資源默認路徑與源默認路徑中同時存在會無法正常顯示

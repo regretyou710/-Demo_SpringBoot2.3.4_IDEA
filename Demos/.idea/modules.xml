@@ -15,6 +15,8 @@
       <module fileurl="file://$PROJECT_DIR$/Demo20_yml的用法/demo20.iml" filepath="$PROJECT_DIR$/Demo20_yml的用法/demo20.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo21_自定義類綁定的配置提示/demo21.iml" filepath="$PROJECT_DIR$/Demo21_自定義類綁定的配置提示/demo21.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo24_welcome與favicon功能/demo24.iml" filepath="$PROJECT_DIR$/Demo24_welcome與favicon功能/demo24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo44_後台管理系統基本功能/demo44.iml" filepath="$PROJECT_DIR$/Demo44_後台管理系統基本功能/demo44.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo45_抽取公共頁面/demo45.iml" filepath="$PROJECT_DIR$/Demo45_抽取公共頁面/demo45.iml" />
     </modules>
   </component>
 </project>
