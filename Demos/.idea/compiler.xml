@@ -13,6 +13,7 @@
         <module name="demo24" />
         <module name="demo21" />
         <module name="demo20" />
+        <module name="demo48" />
         <module name="demo46" />
         <module name="demo45" />
         <module name="demo44" />
@@ -46,6 +47,7 @@
       <module name="Demo44_後台管理系統基本功能" target="1.8" />
       <module name="demo45" target="1.8" />
       <module name="demo46" target="1.8" />
+      <module name="demo48" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -68,6 +70,7 @@
       <module name="demo44" options="-parameters" />
       <module name="demo45" options="-parameters" />
       <module name="demo46" options="-parameters" />
+      <module name="demo48" options="-parameters" />
     </option>
   </component>
 </project>

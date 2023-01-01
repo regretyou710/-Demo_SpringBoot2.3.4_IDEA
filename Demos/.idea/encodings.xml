@@ -17,5 +17,6 @@
     <file url="file://$PROJECT_DIR$/Demo44_後台管理系統基本功能/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Demo45_抽取公共頁面/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Demo46_遍歷數據與頁面bug修改/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Demo48_登入檢查與靜態資源放行/src/main/java" charset="UTF-8" />
   </component>
 </project>
