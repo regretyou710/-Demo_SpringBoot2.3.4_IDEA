@@ -23,6 +23,7 @@
         <module name="demo07" />
         <module name="demo12-2" />
         <module name="demo12-1" />
+        <module name="demo50" />
         <module name="demo17" />
         <module name="Demo23_靜態資源規則與訂製化" />
       </profile>
@@ -48,6 +49,7 @@
       <module name="demo45" target="1.8" />
       <module name="demo46" target="1.8" />
       <module name="demo48" target="1.8" />
+      <module name="demo50" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -71,6 +73,7 @@
       <module name="demo45" options="-parameters" />
       <module name="demo46" options="-parameters" />
       <module name="demo48" options="-parameters" />
+      <module name="demo50" options="-parameters" />
     </option>
   </component>
 </project>
