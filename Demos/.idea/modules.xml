@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Demo05_HelloWorld/Demo05_HelloWorld.iml" filepath="$PROJECT_DIR$/Demo05_HelloWorld/Demo05_HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo23_靜態資源規則與訂製化/Demo23_靜態資源規則與訂製化.iml" filepath="$PROJECT_DIR$/Demo23_靜態資源規則與訂製化/Demo23_靜態資源規則與訂製化.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo56_原生註解與spring方式注入1/Demo56_原生註解與spring方式注入1.iml" filepath="$PROJECT_DIR$/Demo56_原生註解與spring方式注入1/Demo56_原生註解與spring方式注入1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo07_自動配置特性/demo07.iml" filepath="$PROJECT_DIR$/Demo07_自動配置特性/demo07.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo08_@Configuration詳解/demo08.iml" filepath="$PROJECT_DIR$/Demo08_@Configuration詳解/demo08.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo09_@Import導入組件/demo09.iml" filepath="$PROJECT_DIR$/Demo09_@Import導入組件/demo09.iml" />
@@ -21,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/Demo48_登入檢查與靜態資源放行/demo48.iml" filepath="$PROJECT_DIR$/Demo48_登入檢查與靜態資源放行/demo48.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo50_單文件與多文件的上傳使用/demo50.iml" filepath="$PROJECT_DIR$/Demo50_單文件與多文件的上傳使用/demo50.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo52_springboot默認錯誤處理機制/demo52.iml" filepath="$PROJECT_DIR$/Demo52_springboot默認錯誤處理機制/demo52.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo56_原生註解與spring方式注入2/demo56.iml" filepath="$PROJECT_DIR$/Demo56_原生註解與spring方式注入2/demo56.iml" />
     </modules>
   </component>
 </project>

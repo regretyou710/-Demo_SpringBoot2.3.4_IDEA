@@ -20,5 +20,7 @@
     <file url="file://$PROJECT_DIR$/Demo48_登入檢查與靜態資源放行/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Demo50_單文件與多文件的上傳使用/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Demo52_springboot默認錯誤處理機制/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Demo56_原生註解與spring方式注入1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Demo56_原生註解與spring方式注入2/src/main/java" charset="UTF-8" />
   </component>
 </project>
