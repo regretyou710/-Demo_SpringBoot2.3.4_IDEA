@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/Demo46_遍歷數據與頁面bug修改/demo46.iml" filepath="$PROJECT_DIR$/Demo46_遍歷數據與頁面bug修改/demo46.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo48_登入檢查與靜態資源放行/demo48.iml" filepath="$PROJECT_DIR$/Demo48_登入檢查與靜態資源放行/demo48.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo50_單文件與多文件的上傳使用/demo50.iml" filepath="$PROJECT_DIR$/Demo50_單文件與多文件的上傳使用/demo50.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo52_springboot默認錯誤處理機制/demo52.iml" filepath="$PROJECT_DIR$/Demo52_springboot默認錯誤處理機制/demo52.iml" />
     </modules>
   </component>
 </project>
