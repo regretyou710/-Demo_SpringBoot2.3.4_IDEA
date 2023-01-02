@@ -27,6 +27,7 @@
         <option value="$PROJECT_DIR$/Demo56_原生註解與spring方式注入2/pom.xml" />
         <option value="$PROJECT_DIR$/Demo60_數據庫場景的自動配置與整合測試/pom.xml" />
         <option value="$PROJECT_DIR$/Demo61_自定義方式整合druid數據源/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo62_druid數據源starter整合方式/pom.xml" />
       </list>
     </option>
   </component>
