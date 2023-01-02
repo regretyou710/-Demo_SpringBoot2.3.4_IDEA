@@ -3,4 +3,7 @@ spring:
     username: system
     url: jdbc:oracle:thin:@127.0.0.1:1521:orcl12c
     password: manager
-#    driver-class-name: oracle.jdbc.OracleDriver
+    driver-class-name: oracle.jdbc.OracleDriver
+#  jdbc:
+#    template:
+#      query-timeout: 3

@@ -23,5 +23,6 @@
     <file url="file://$PROJECT_DIR$/Demo56_原生註解與spring方式注入1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Demo56_原生註解與spring方式注入2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Demo60_數據庫場景的自動配置與整合測試/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Demo61_自定義方式整合druid數據源/src/main/java" charset="UTF-8" />
   </component>
 </project>
