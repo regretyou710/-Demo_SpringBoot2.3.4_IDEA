@@ -28,6 +28,7 @@
         <module name="demo12-1" />
         <module name="demo50" />
         <module name="demo17" />
+        <module name="Demo60_數據庫場景的自動配置與整合測試" />
         <module name="Demo23_靜態資源規則與訂製化" />
       </profile>
     </annotationProcessing>
@@ -56,6 +57,7 @@
       <module name="demo52" target="1.8" />
       <module name="demo56" target="1.8" />
       <module name="Demo56_原生註解與spring方式注入1" target="1.8" />
+      <module name="Demo60_數據庫場景的自動配置與整合測試" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -65,6 +67,7 @@
       <module name="Demo23_靜態資源規則與訂製化" options="-parameters" />
       <module name="Demo44_後台管理系統基本功能" options="-parameters" />
       <module name="Demo56_原生註解與spring方式注入1" options="-parameters" />
+      <module name="Demo60_數據庫場景的自動配置與整合測試" options="-parameters" />
       <module name="demo07" options="-parameters" />
       <module name="demo08" options="-parameters" />
       <module name="demo09" options="-parameters" />

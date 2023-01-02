@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Demo05_HelloWorld/Demo05_HelloWorld.iml" filepath="$PROJECT_DIR$/Demo05_HelloWorld/Demo05_HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo23_靜態資源規則與訂製化/Demo23_靜態資源規則與訂製化.iml" filepath="$PROJECT_DIR$/Demo23_靜態資源規則與訂製化/Demo23_靜態資源規則與訂製化.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo56_原生註解與spring方式注入1/Demo56_原生註解與spring方式注入1.iml" filepath="$PROJECT_DIR$/Demo56_原生註解與spring方式注入1/Demo56_原生註解與spring方式注入1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo60_數據庫場景的自動配置與整合測試/Demo60_數據庫場景的自動配置與整合測試.iml" filepath="$PROJECT_DIR$/Demo60_數據庫場景的自動配置與整合測試/Demo60_數據庫場景的自動配置與整合測試.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo07_自動配置特性/demo07.iml" filepath="$PROJECT_DIR$/Demo07_自動配置特性/demo07.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo08_@Configuration詳解/demo08.iml" filepath="$PROJECT_DIR$/Demo08_@Configuration詳解/demo08.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo09_@Import導入組件/demo09.iml" filepath="$PROJECT_DIR$/Demo09_@Import導入組件/demo09.iml" />
