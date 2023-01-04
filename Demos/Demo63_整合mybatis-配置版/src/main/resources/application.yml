@@ -1,0 +1,41 @@
+spring:
+  datasource:
+    username: system
+    url: jdbc:oracle:thin:@127.0.0.1:1521:orcl12c
+    password: manager
+    driver-class-name: oracle.jdbc.OracleDriver
+
+    druid:
+      aop-patterns: tw.com.springboot.*  #監控SpringBean
+      filters: stat,wall     # 底層開啟功能，stat（sql監控），wall（防火牆）
+
+      stat-view-servlet:   # 配置監控頁功能
+        enabled: true
+        login-username: admin
+        login-password: admin
+        resetEnable: false
+
+      web-stat-filter:  # 監控web
+        enabled: true
+        urlPattern: /*
+        exclusions: '*.js,*.gif,*.jpg,*.png,*.css,*.ico,/druid/*'
+
+      filter:
+        stat:    # 對上面filters裡面的stat的詳細配置
+          slow-sql-millis: 1000
+          logSlowSql: true
+          enabled: true
+        wall:
+          enabled: true
+          config:
+            drop-table-allow: false
+
+#  jdbc:
+#    template:
+#      query-timeout: 3
+
+#配置mybatis規則
+mybatis:
+  mapper-locations: classpath:mybatis/mapper/*.xml
+  configuration:
+    map-underscore-to-camel-case: true
