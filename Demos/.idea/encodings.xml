@@ -26,5 +26,7 @@
     <file url="file://$PROJECT_DIR$/Demo61_自定義方式整合druid數據源/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Demo62_druid數據源starter整合方式/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Demo63_整合mybatis-配置版/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Demo64_整合mybatis-註解配置混合版/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Demo65_整合MyBatisPlus操作數據庫/src/main/java" charset="UTF-8" />
   </component>
 </project>
