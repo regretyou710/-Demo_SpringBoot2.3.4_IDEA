@@ -29,6 +29,8 @@
       <module fileurl="file://$PROJECT_DIR$/Demo63_整合mybatis-配置版/demo63.iml" filepath="$PROJECT_DIR$/Demo63_整合mybatis-配置版/demo63.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo64_整合mybatis-註解配置混合版/demo64.iml" filepath="$PROJECT_DIR$/Demo64_整合mybatis-註解配置混合版/demo64.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo65_整合MyBatisPlus操作數據庫/demo65.iml" filepath="$PROJECT_DIR$/Demo65_整合MyBatisPlus操作數據庫/demo65.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo66_數據列表展示/demo66.iml" filepath="$PROJECT_DIR$/Demo66_數據列表展示/demo66.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo67_分頁數據展示/demo67.iml" filepath="$PROJECT_DIR$/Demo67_分頁數據展示/demo67.iml" />
     </modules>
   </component>
 </project>
