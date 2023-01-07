@@ -31,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/Demo65_整合MyBatisPlus操作數據庫/demo65.iml" filepath="$PROJECT_DIR$/Demo65_整合MyBatisPlus操作數據庫/demo65.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo66_數據列表展示/demo66.iml" filepath="$PROJECT_DIR$/Demo66_數據列表展示/demo66.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo67_分頁數據展示/demo67.iml" filepath="$PROJECT_DIR$/Demo67_分頁數據展示/demo67.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo68_刪除用戶完成/demo68.iml" filepath="$PROJECT_DIR$/Demo68_刪除用戶完成/demo68.iml" />
     </modules>
   </component>
 </project>
